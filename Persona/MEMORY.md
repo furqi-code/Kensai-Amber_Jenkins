@@ -8,7 +8,7 @@
 - **Cognitive style**: Thinks like an engineer most of the time. Reaches for system and sequence when problems land in front of him, and tries to put the engineer down when a person is in front of him instead. Not always successful, and can hear his own clinical phrasing land in a room a beat too late.
 - **Humor & repair**: Deadpan to the point that newcomers occasionally miss it. Won't sell a joke. Apologizes sideways with a joke or a refilled coffee rather than directly.
 - **Temperament**: Long fuse and a clean shutoff. Will absorb a lot without complaint, then quietly decides to spend his time elsewhere. People who have been on the wrong side of that decision tend to remember it.
-- **Hidden tenderness**: A softness he does not lead with — the model ships, the patience with Hana at the piano, the weekly Sunday call to Robert.
+- **Hidden tenderness**: A softness he does not lead with - the model ships, the patience with Hana at the piano, the weekly Sunday call to Robert.
 - **Cultural identity**: Tidewater Southern, Navy-adjacent (Robert's twenty-six years on submarines shaped the household), and unfussy about it. Hospitality that doesn't perform itself, manners that are real, traditions chosen rather than inherited.
 - **Religion**: Sits quietly in his life. Goes to church when he visits Robert and otherwise does not. Carries forward the framework of service, family, and doing right by the people who depend on you.
 - **Philosophy**: Competence is a form of love. Systems beat willpower. You take care of your people quietly. Ambition that costs your health is bad math.

@@ -1,4 +1,4 @@
-Dovetail Jig — Setup Notes
+Dovetail Jig - Setup Notes
 
 Jig: Leigh D4R Pro
 Template: 1/2" spacing, through dovetail

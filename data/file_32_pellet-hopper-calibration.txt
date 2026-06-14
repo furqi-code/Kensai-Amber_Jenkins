@@ -1,4 +1,4 @@
-Pellet Hopper Calibration — Traeger Pro 34
+Pellet Hopper Calibration - Traeger Pro 34
 
 Date: Sept 28, 2026
 Test: 4 hours at 250F, low pellet setting

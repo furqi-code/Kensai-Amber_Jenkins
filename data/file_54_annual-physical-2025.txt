@@ -1,4 +1,4 @@
-Annual Physical — November 3, 2025
+Annual Physical - November 3, 2025
 
 Patient: Amber Jenkins
 Provider: Dr. Priya Ramachandran, MD
@@ -8,8 +8,8 @@ Vitals:
 BP: 128/84 (down from 132/88 last year)
 HR: 68 bpm
 Weight: 215 lbs
-Glucose: 107 (fasting) — pre-diabetic range, monitor
-HBA1C: 5.8 — slightly elevated
+Glucose: 107 (fasting) - pre-diabetic range, monitor
+HBA1C: 5.8 - slightly elevated
 
 Recommendations:
 1. Continue metformin (500mg daily) as prescribed

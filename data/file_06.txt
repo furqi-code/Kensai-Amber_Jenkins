@@ -1,7 +1,7 @@
 --- Email ---
 From: bookings@vbfish.com
 To: amber.jenkins@outlook.com
-Subject: Your Virginia Beach Charter Booking — Confirmed
+Subject: Your Virginia Beach Charter Booking - Confirmed
 Date: Mon, 15 Sep 2025 10:30:00 -0400
 
 Amber,

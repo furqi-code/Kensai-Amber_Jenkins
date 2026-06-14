@@ -1,4 +1,4 @@
-NOAA TIDE PREDICTIONS — September 2026
+NOAA TIDE PREDICTIONS - September 2026
 Station: Rudee Inlet, Virginia (Station ID: 8639187)
 
 Date     Day    Low Tide    High Tide    Low Tide    High Tide

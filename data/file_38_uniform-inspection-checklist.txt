@@ -1,16 +1,16 @@
 Uniform Inspection Checklist
 
 Service Dress Blues:
-[ ] Cover — no stains, proper shape
-[ ] Collar devices — centered, no tarnish
-[ ] Ribbons — correct order, no bent pins
-[ ] Rate — CPO anchor, centered
-[ ] Name tag — correct spelling
-[ ] Shoes — spit-shined, no scuffs
-[ ] Trousers — proper break, no fraying
+[ ] Cover - no stains, proper shape
+[ ] Collar devices - centered, no tarnish
+[ ] Ribbons - correct order, no bent pins
+[ ] Rate - CPO anchor, centered
+[ ] Name tag - correct spelling
+[ ] Shoes - spit-shined, no scuffs
+[ ] Trousers - proper break, no fraying
 
 NWU Type III:
-[ ] Tapes — IR, no fraying
-[ ] Patches — command, US Navy, rank
-[ ] Boots — polished, serviceable soles
-[ ] Belt — no fraying, keeper aligned
+[ ] Tapes - IR, no fraying
+[ ] Patches - command, US Navy, rank
+[ ] Boots - polished, serviceable soles
+[ ] Belt - no fraying, keeper aligned

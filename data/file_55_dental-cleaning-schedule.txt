@@ -1,7 +1,7 @@
 Dental Cleaning Schedule
 
 Patient: Amber Jenkins
-Provider: Dr. Sarah Chen, DDS — Roanoke Family Dental
+Provider: Dr. Sarah Chen, DDS - Roanoke Family Dental
 
 Last cleaning: August 20, 2026
 Next cleaning: February 20, 2027 (6-month interval)
