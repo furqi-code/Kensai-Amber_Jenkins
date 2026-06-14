@@ -1,0 +1,10 @@
+{
+  "item_id": "item_aj_001",
+  "institution_id": "ins_56",
+  "institution_name": "Navy Federal Credit Union",
+  "accounts": [
+    "acc_001",
+    "acc_002",
+    "acc_003"
+  ]
+}

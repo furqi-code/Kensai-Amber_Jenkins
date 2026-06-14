@@ -1,0 +1,7 @@
+id,name,type
+1,INBOX,system
+2,SENT,system
+3,IMPORTANT,system
+4,FAMILY,user
+5,FINANCE,user
+6,FISHING,user

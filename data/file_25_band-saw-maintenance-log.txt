@@ -1,0 +1,9 @@
+Band Saw Maintenance Log
+
+Saw: Rikon 10-326
+Last blade change: Sept 15, 2026
+Blade: 1/2" 3TPI bimetal
+Tension: 25 psi
+Tracking: Adjusted — running center.
+Cuts: Resaw 6" walnut, no drift.
+Next service: Blade change every 10 hours use.

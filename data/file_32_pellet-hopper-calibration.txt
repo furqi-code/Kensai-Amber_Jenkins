@@ -1,0 +1,10 @@
+Pellet Hopper Calibration — Traeger Pro 34
+
+Date: Sept 28, 2026
+Test: 4 hours at 250F, low pellet setting
+Pellets used: 6.2 lbs
+Expected: 5.0 lbs
+Variance: 24% over (too rich)
+Adjustment: Auger feed rate -15%
+Retest: Oct 2, 4.8 lbs at 250F. Close enough.
+Notes: Lumberjack competition blend works best. Skip Traeger brand, too much dust.

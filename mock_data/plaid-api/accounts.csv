@@ -1,0 +1,4 @@
+account_id,name,type,subtype,available,current
+acc_001,AMBER CHECKING,depository,checking,5804.00,5829.00
+acc_002,AMBER SAVINGS,depository,savings,45200.00,45200.00
+acc_003,AMBER CREDIT CARD,credit,credit card,2000.00,847.33

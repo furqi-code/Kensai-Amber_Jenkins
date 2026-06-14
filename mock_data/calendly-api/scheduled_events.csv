@@ -1,0 +1,2 @@
+uri,name,start_time,end_time,status,event_type
+/scheduled_events/cev_001,BBQ Team Strategy,2026-10-05T19:00:00Z,2026-10-05T20:00:00Z,active,/event_types/et_001

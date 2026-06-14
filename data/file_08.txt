@@ -1,0 +1,9 @@
+--- Email ---
+From: noaa-weather@notifications.noaa.gov
+To: amber.jenkins@outlook.com
+Subject: Weekly Marine Forecast — Virginia Beach
+Date: Mon, 12 Oct 2026 06:00:00 -0400
+
+MARINE FORECAST: Virginia Beach offshore through Oct 18.
+Small craft advisory possible Wed-Thu. Weekend improving.
+Seas 3-5 ft Sat Oct 17. Winds NE 10-15 kts. Water temp 68F.

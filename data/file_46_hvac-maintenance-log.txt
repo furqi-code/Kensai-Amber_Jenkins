@@ -1,0 +1,22 @@
+HVAC Maintenance Log
+
+System: Carrier 3.5 ton heat pump (Model 25HPA536)
+Installed: 2019
+
+Spring 2025 (Apr 8):
+- Cleaned condenser coils
+- Replaced air filter (MERV 11)
+- Checked refrigerant: 2lbs low, topped off
+- Tested aux heat: OK
+
+Fall 2025 (Oct 15):
+- Cleaned evaporator drain line
+- Replaced filter
+- Tested heat strip: OK
+- Thermostat batteries replaced
+
+Spring 2026 (Mar 20):
+- Routine check, all OK
+- Filter changed
+
+Next service: Fall 2026

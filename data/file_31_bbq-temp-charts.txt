@@ -1,0 +1,13 @@
+BBQ Temperature Reference
+
+Beef Brisket: 200-205F internal
+Pork Butt: 197-203F
+Pork Ribs (spare): 195-200F
+Pork Ribs (baby back): 185-190F
+Chicken thighs: 170-175F
+Turkey: 160F breast, 175F thigh
+Fish: 145F
+
+Smoker temp: 225-275F depending on meat
+Thicker smoke at 225, faster cook at 275.
+Wrap: Peach paper at 165F for brisket. Foil at 160F for pork.

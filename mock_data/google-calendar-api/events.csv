@@ -1,0 +1,11 @@
+id,calendar_id,summary,description,start,end,status
+101,primary,PT — Shoulder Rehab,"Roanoke VA PT, Building 3, Rm 112",2026-10-17 08:00,2026-10-17 09:00,confirmed
+102,primary,Robert visit — dinner,Robert coming over for dinner,2026-10-17 17:00,2026-10-17 19:00,confirmed
+103,primary,Navy Federal — auto-pay date,Mortgage auto-draft,2026-10-01 09:00,2026-10-01 09:30,confirmed
+104,primary,VA Physical,Annual physical at Roanoke VA,2026-10-20 10:00,2026-10-20 11:00,confirmed
+105,primary,Payday,Navy direct deposit,2026-10-15 00:00,2026-10-15 23:59,confirmed
+106,primary,Lacrosse — Ryan's game,Ryan away game at Salem HS,2026-10-17 10:00,2026-10-17 12:00,confirmed
+107,primary,Choctaw Creek BBQ team meeting,Team prep for Octoberfest competition,2026-10-12 19:00,2026-10-12 21:00,confirmed
+108,primary,Kai — fencing tournament,"Kai's fencing tournament, Richmond",2026-10-18 08:00,2026-10-18 17:00,confirmed
+109,primary,Hana — dance recital,"Fall dance recital, Roanoke Civic Center",2026-10-10 14:00,2026-10-10 16:00,confirmed
+110,primary,BBQ competition — Oktoberfish,Choctaw Creek competes at Virginia Beach,2026-10-10 06:00,2026-10-12 18:00,confirmed

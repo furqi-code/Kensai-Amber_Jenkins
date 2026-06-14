@@ -1,0 +1,8 @@
+Dovetail Jig — Setup Notes
+
+Jig: Leigh D4R Pro
+Template: 1/2" spacing, through dovetail
+Bit: 1/2" dovetail bit, 14 deg
+Depth: 3/8" for 3/4" stock
+Test cuts: Practice on poplar first.
+Common issues: Router speed too high causes burning. Use 14,000 RPM.

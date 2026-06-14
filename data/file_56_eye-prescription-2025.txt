@@ -1,0 +1,14 @@
+Eye Prescription — January 2026
+
+Patient: Amber Jenkins
+Provider: Dr. Lauren Kim, OD — Salem Eye Associates
+
+RX:
+Sphere: OD -0.75, OS -1.00
+Cylinder: OD -0.50, OS -0.25
+Axis: OD 180, OS 175
+Add: None (no bifocal)
+PD: 64mm
+
+Notes: Minor nearsightedness. Computer use may cause eye strain, suggest blue-light filter lenses.
+Next exam: January 2028

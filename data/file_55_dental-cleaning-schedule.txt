@@ -1,0 +1,12 @@
+Dental Cleaning Schedule
+
+Patient: Amber Jenkins
+Provider: Dr. Sarah Chen, DDS — Roanoke Family Dental
+
+Last cleaning: August 20, 2026
+Next cleaning: February 20, 2027 (6-month interval)
+
+Insurance: Delta Dental PPO
+Coverage: 2 cleanings/year at 100%, basic restorations at 80%
+
+Notes: Gum health good. No cavities last visit. Continue nightly fluoride rinse.

@@ -1,0 +1,19 @@
+Auto Insurance Renewal — 2026
+
+Insurer: USAA
+Policy: 4473-NFCU-Multi
+
+Vehicle: 2022 Ford F-150 Lariat
+Coverage: Full coverage, $500 deductible
+Liability: 100/300/100
+Annual premium: $1,247
+Payment: Monthly ($103.92)
+
+Vehicle: 2019 Honda CR-V (Megan's)
+Coverage: Full coverage, $500 deductible
+Liability: 100/300/100
+Annual premium: $892
+Payment: Monthly ($74.33)
+
+Renewal date: December 1, 2026
+Multi-policy discount (USAA auto + NFCU): 10%

@@ -1,0 +1,31 @@
+task_id: amber-jenkins-kensei-phase1
+persona: Amber Jenkins
+codename: Kensei
+kernel_type: tool-task
+tool_score: 6
+assistant_score: 4
+focal_event: Deep sea fishing charter out of Rudee Inlet, booked for October 17, 2026
+threshold_usd: 200
+prompt_type: goal-only
+active_services:
+  - gmail-api
+  - plaid-api
+  - google-calendar-api
+distractor_services:
+  - openweather-api
+  - outreach-api
+  - calendly-api
+  - quickbooks-api
+trap_count: 5
+dual_realization_count: 2
+signal_artifact_count: 6
+noise_artifact_count: 44
+input_modalities:
+  - docx
+  - pdf
+  - xlsx
+  - txt
+  - api
+m3_artifact: true  # skewed tide table PDF
+graded_value_count: 11
+pass_threshold: 85

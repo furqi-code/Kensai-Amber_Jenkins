@@ -1,0 +1,17 @@
+Generator Maintenance Log
+
+Unit: Generac 22kW (Model 70432)
+Installed: 2021
+Fuel: Propane (500gal buried tank)
+
+ANNUAL SERVICE (March 2026):
+- Oil change: SAE 5W-30 synthetic
+- Air filter: replaced
+- Spark plugs: gap checked (0.030")
+- Battery: 12.8V, load test OK
+- Exercise cycle: weekly Tue 10AM (automatic)
+
+Run time: 47 hours total
+Next service: March 2027
+
+Fuel level as of Oct 1: 65%

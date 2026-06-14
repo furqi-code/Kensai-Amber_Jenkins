@@ -1,0 +1,22 @@
+--- Email ---
+From: bookings@vbfish.com
+To: amber.jenkins@outlook.com
+Subject: Your Virginia Beach Charter Booking — Confirmed
+Date: Mon, 15 Sep 2025 10:30:00 -0400
+
+Amber,
+
+Your booking is confirmed!
+
+Vessel: FV Atlantic Express
+Date: September 27, 2025
+Departure: Rudee Inlet, Slip 4
+Check-in: 05:30
+Departure: 06:00
+
+Deposit paid: $125.00
+Balance due: $250.00
+
+See you at the dock.
+
+Virginia Beach Fishing Charters

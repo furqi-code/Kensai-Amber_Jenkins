@@ -1,0 +1,3 @@
+uri,name,slug,duration,active
+/event_types/et_001,15 min check-in,15min,15,true
+/event_types/et_002,30 min meeting,30min,30,true

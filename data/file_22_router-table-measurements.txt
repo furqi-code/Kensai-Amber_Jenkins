@@ -1,0 +1,7 @@
+Router Table Measurements
+
+Plate opening: 8" x 12"
+Fence: adjustable 24" phenolic
+Dust port: 2.5" to 4" adapter
+Bit height: 1/8" max depth per pass
+Feather board: predrill 3/8" holes on 2" centers
